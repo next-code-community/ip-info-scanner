@@ -1,0 +1,26 @@
+
+---
+
+### **MIT License**
+
+Copyright (c) 2025 **Bobi.exe & NebulaStudioCode**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit others to whom the Software is provided to do so, subject to the following conditions:
+
+1. The copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+3. The Software may contain bugs or flaws in its implementation. While every effort has been made to ensure the Software is functional, no guarantee is made regarding its correctness, reliability, or performance. The authors do not provide any support or assistance and will not be held accountable for any potential issues that may arise due to the use of the Software.
+
+4. If the Software is used in an environment where critical functionality or high availability is required (e.g., production systems, financial applications, medical devices, etc.), the user is advised to conduct thorough testing and validation before deployment. The authors disclaim all responsibility for any adverse outcomes that may arise from the use of the Software in such contexts.
+
+---
+
+### Key Considerations:
+- **No warranty**: There is an explicit lack of warranty in the use of the software, highlighting that the software is "as is" and can have bugs, errors, or issues not covered by the authors.
+- **Potential liability**: The license limits the authors’ liability even in cases of damages resulting from using the software. This section safeguards the authors from any legal claims arising from the software’s use.
+- **Testing and Validation**: The addition emphasizes that users should thoroughly test the software, especially in environments where its failure could have significant consequences (such as in production systems).
+
+---
+
