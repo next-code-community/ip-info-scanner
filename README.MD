@@ -31,7 +31,7 @@ To install and use the script on **Termux**, follow these commands:
 ```sh
 apt update && apt upgrade -y
 apt install git -y
-git clone https://github.com/NebulaStudioTM/ip-info-scanner
+git clone https://github.com/NebulaStudioTM/ip-info-scanner.git
 cd ipinfo
 sh install.sh
 python3 ipinfo.py
