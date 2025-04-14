@@ -21,7 +21,7 @@ from urllib.parse import urlparse
 VERSION = "3.0"
 UPDATE_DATE = "14/04/2025"
 AUTHOR = "InfoSec Specialist"
-GITHUB = "https://github.com/infosec-tools/enhanced-ipinfo"
+GITHUB = "https://github.com/next-code-community/ip-info-scanner"
 MAX_THREADS = 10
 DEFAULT_TIMEOUT = 10
 
