@@ -622,7 +622,7 @@ def settings():
             proxy = input(f"{Colors.CYAN}Enter proxy (format: http://host:port) or 'none' to disable: {Colors.GREEN}")
             if proxy.lower() == 'none':
                 config["proxy"] = None
-            elif re.match(r'^https?://\S+:\d+, proxy):
+            elif re.match(r'^https?://\S+:\d+$', proxy):
                 config["proxy"] = proxy
             else:
                 slowprint(f"{Colors.RED}[!] Invalid proxy format")
